@@ -3,8 +3,6 @@ from PIL import Image, ImageTk
 import customtkinter as ctk
 from customtkinter import *
 from tkinter import *
-from teacherDashboard import IMS
-
 
 def userLoggedIn():
     app.destroy()
